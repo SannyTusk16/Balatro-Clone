@@ -117,7 +117,7 @@ function love.load()
 
     -- box
     box = {}
-
+    
     --Cards
     card = {}
     card_colors = {
